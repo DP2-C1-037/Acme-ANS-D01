@@ -1,21 +1,17 @@
-# README.txt
-#
-# Copyright (C) 2012-2025 Rafael Corchuelo.
-#
-# In keeping with the traditional purpose of furthering education and research, it is
-# the policy of the copyright owner to permit non-commercial use and redistribution of
-# this software. It has been tested carefully, but it is not guaranteed for any particular
-# purposes.  The copyright owner does not offer any warranties or representations, nor do
-# they accept any liabilities with respect to them.
+Acme ANS - Airport Management System
 
-This is a starter project.  It is intended to be a core learning asset for the students
-who have enrolled the Design and Testing subject of the Software Engineering curriculum of the 
-University of Seville.  This project helps them start working on their new information system 
-projects.
+## Project Overview
+Welcome to the Acme ANS repository, developed as part of the course "Diseño y Pruebas II" ("Design and Testing II").
+The objective is to create a system that allows administrators to oversee essential airport operations, 
+streamline management processes, and enhance the overall experience for passengers and airlines.
 
-To get this project up and running, please follow the guideline in the theory/lab materials,
-taking into account that you must link the appropriate version of the Acme-Framework excluding 
-the following resources:
+## Group Information
+Diseño y Pruebas II (Design and Testing II) - C1.037
 
-- **/fragments/**
+## Project Description
+Acme ANS is designed to facilitate operations within airports, ensuring efficient handling of airlines and aircrafts.
+It also enhances coordinating different services in order to provide users with the best possible experience, 
+which can be determined by allowing them to create reviews.
+The aim of the application is to enable administrators to manage crucial airport-related data while offering a seamless 
+experience for passengers and airlines alike.
  

@@ -22,7 +22,9 @@
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link" action="http://www.example.com/"/>
 			<acme:menu-suboption code="master.menu.anonymous.adrian-favourite-link" action="https://es.wikipedia.org/wiki/Solanum_tuberosum"/>
 			<acme:menu-suboption code="master.menu.anonymous.miguel-favourite-link" action="https://aitanamusic.es/"/>
-			<acme:menu-suboption code="master.menu.anonymous.ignacio-favourite-link" action="https://github.com/UPocek/Car_AI?tab=readme-ov-file"/>
+			<acme:menu-suboption code="master.menu.anonymous.alejandro-favourite-link" action="https://www.marvel.com/characters/spider-man-peter-parker/in-comics"/>
+			<acme:menu-suboption code="master.menu.anonymous.salma-favourite-link" action="https://www.reddit.com/"/>
+      <acme:menu-suboption code="master.menu.anonymous.ignacio-favourite-link" action="https://github.com/UPocek/Car_AI?tab=readme-ov-file"/>
 		</acme:menu-option>
 
 		<acme:menu-option code="master.menu.administrator" access="hasRealm('Administrator')">
