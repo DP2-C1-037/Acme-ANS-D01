@@ -8,8 +8,7 @@
 # purposes.  The copyright owner does not offer any warranties or representations, nor do
 # they accept any liabilities with respect to them.
 
-master.welcome.title = ¡Bienvenidos!
+master.welcome.title = ¡Bienvenido a Acme AirNav Solutions!
 master.welcome.text = \
-	¡Hola mundo!  Nunca antes ha sido tan sencillo desarrollar un \
-	proyecto y hacerlo funcionar.
+	Nos complace tenerte con nosotros. Aquí encontrarás herramientas diseñadas para facilitar la gestión de vuelos, reservas y operaciones aeroportuarias. Nuestro objetivo es brindarte una experiencia eficiente y sin complicaciones. Si tienes alguna duda o necesitas asistencia, nuestro equipo está siempre disponible para ayudarte. ¡Esperamos que disfrutes usando nuestro sistema!
 ﻿
